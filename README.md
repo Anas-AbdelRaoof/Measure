@@ -1,5 +1,5 @@
 # **Measure**
-*This is "Measure" the terminal program that canmeasure the Area, Perimeter, and volume of any 2D and 3D shape, and this is the: First Version.*  
+*This is "Measure" the terminal program that can measure the Area, Perimeter, and Volume of any 2D and 3D shape, and this is the: First Version (4 Februry 2026).*  
 [➡️ Click here to view the sourse code of Measure! (Measure.c)](./Measure.c)
 ## How to use this program?
 First: You write on the terminal: cd measure; to go to the directory *"Measure"*.  

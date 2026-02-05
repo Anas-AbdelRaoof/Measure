@@ -149,6 +149,34 @@ int main(void)
             printf("SYNTAX ERROR! TRY AGAIN BY: ./Measure.\n");
         }
     }
+    else if (strcmp(shape_type, "3D") == ZERO)
+    {
+        string shape = get_string("What's the shape?\n Cube\n");
+        if (strcmp(shape, "Cube") == ZERO)
+        {
+            float side_length = get_float("What's the side length?\n");
+            string Cube_Choose = get_string("Do you want Volume, Perimeter, or Area?\n");
+            string Unit = get_string("What's the Unit?\n");
+            if (strcmp(Cube_Choose, "Volume") == ZERO)
+            {
+                float Cube_Volume = side_length * side_length * side_length;
+                printf("The Volume = %2.f %s³.\n", Cube_Volume, Unit);
+            }
+            else if (strcmp(Cube_Choose, "Area") == ZERO)
+            {
+                float Cube_Area = 6 * (side_length * side_length);
+                printf("The Area = %2.f %s².\n", Cube_Area, Unit);
+            }
+            else if (strcmp(Cube_Choose, "Perimeter") == ZERO)
+            {
+                float Cube_Perimeter = 12 * side_length;
+                printf("Perimeter = %2.f %s.\n", Cube_Perimeter, Unit);
+            }
+            else
+            {
+                printf("SYNTAX ERROR! TRY AGAIN BY: ./Measure.\n");
+            }
+        }
     else
     {
         printf("SYNTAX ERROR! TRY AGAIN BY: ./Measure.\n");

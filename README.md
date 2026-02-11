@@ -10,9 +10,10 @@ It will ask you 2D or 3D, the shapes will appear is depending on what you choose
 <img width="292" height="42" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/2d91f44e-4776-4931-a35d-e54d206c92d9" />  
 Finally: Choose the shapes, then enter the data 🧮.  
 ## About v1.0 **(by *4 February 2026*):**  
-This version (v1.0) allows only 2D shapes, and four shapes (Circle, Rectangle, Square, and Triangle).  
-<img width="299" height="136" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/4e0bdd7f-4eae-4b3e-9315-72125f7bd9d6" />  
-## About v1.1 **(by *5 February 2026*):**  
-This version (v1.1) allows 4 2D shapes (in the last version ⬆️) and 1 3D shape (Cube).  
-And allows more accuracy for units, Example: instead of just *cm* there are *cm²* for Area, and *cm³* for Volume.  
+* This version (v1.0) allows only 2D shapes, and four shapes (Circle, Rectangle, Square, and Triangle).  
+<img width="299" height="136" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/4e0bdd7f-4eae-4b3e-9315-72125f7bd9d6" />
+    
+## About v1.1 **(by *5 February 2026*):**    
+* This version (v1.1) allows 4 2D shapes (in the last version ⬆️) and 1 3D shape (Cube).    
+* And allows more accuracy for units, Example: instead of just *cm* there are *cm²* for Area, and *cm³* for Volume.    
 <img width="292" height="76" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/09830c33-a5b6-4e39-940a-78a0f1a9737d" />  

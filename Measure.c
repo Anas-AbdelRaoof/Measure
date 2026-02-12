@@ -144,6 +144,27 @@ int main(void)
                 printf("SYNTAX ERROR! TRY AGAIN BY: ./Measure.\n");
             }
         }
+        else if (strcmp(shape, "Pentagon") == ZERO)
+        {
+            string Pentagon_Choose = get_string("Do you want Area or Perimeter?\n");
+            string Pentagon_Unit = get_string("What's the Unit?\n");
+            if (strcmp (Pentagon_Choose, "Area") == ZERO)
+            {
+                float Side = get_float("What's the length of the side\n");
+                float Radian = PENTAGON_DEGREE * (PI / STRAIGHT);
+                float Area = (5 * pow(Side, 2)) / (4 * tan(Radian));
+                printf("The Area = %f %s².\n", Area, Pentagon_Unit);
+            }
+            else if (strcmp(Pentagon_Choose, "Perimeter") == ZERO)
+            {
+                float Side = get_float("What's the length of the side\n");
+                float Perimeter = Side * 5;
+                printf("The Perimeter = %2.f %s.\n", Perimeter, Pentagon_Unit);
+            }
+            else
+            {
+                printf("SYNTAX ERROR! TRY AGAIN BY: ./Measure.\n");
+            }
         else
         {
             printf("SYNTAX ERROR! TRY AGAIN BY: ./Measure.\n");

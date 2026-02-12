@@ -21,4 +21,9 @@ Finally: Choose the shapes, then enter the data 🧮.
 
 ## About v1.2 **(by *12 February 2026*):**
 * This version allows all the 2D and 3D shapes in last version ⬆️, and 1 new 2D shape, a Pentagon (but now it's Regular only).
-<img width="215" height="21" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/da03e3ee-c22e-4283-bc19-1e3f0ef5a158" />  
+<img width="215" height="21" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/da03e3ee-c22e-4283-bc19-1e3f0ef5a158" />
+
+## About v1.3 **(by *12 Febraury 2026*):**
+* This version is not about measurements, but it's about User Experience, if you choosed "circle" instead of "Circle" won't work? No, it will work, all of this by "OR".
+<img width="223" height="180" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/aad03ad9-8b00-4b53-9465-a3dbd2cd3a38" />
+

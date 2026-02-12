@@ -16,4 +16,8 @@ Finally: Choose the shapes, then enter the data 🧮.
 ## About v1.1 **(by *5 February 2026*):**    
 * This version (v1.1) allows 4 2D shapes (in the last version ⬆️) and 1 3D shape (Cube).    
 * And allows more accuracy for units, Example: instead of just *cm* there are *cm²* for Area, and *cm³* for Volume.    
-<img width="292" height="76" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/09830c33-a5b6-4e39-940a-78a0f1a9737d" />  
+<img width="292" height="76" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/09830c33-a5b6-4e39-940a-78a0f1a9737d" />
+
+## About v1.2 **(by *12 February 2026*):**
+* This version allows all the 2D and 3D shapes in last version ⬆️, and 1 new 2D shape, a Pentagon (but now it's Regular only).
+<img width="215" height="21" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/da03e3ee-c22e-4283-bc19-1e3f0ef5a158" />  

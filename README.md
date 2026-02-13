@@ -1,7 +1,7 @@
 # **Measure**
 *This is "Measure" the terminal program that can measure the Area, Perimeter, and Volume of any 2D and 3D shape.*  
 [➡️ Click here to view the sourse code of Measure! (Measure.c)](./Measure.c)
-# ***Welcome for contributors 🤝! I'm glad to share in Measure***.
+## ***Welcome for contributors 🤝! I'm glad to share in Measure***.
 ## How to use this program?
 First: You write on the terminal: cd measure; to go to the directory *"Measure"*.  
 <img width="128" height="59" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/6483b5ed-e6a5-4bcb-a9a3-04250f21ec80" />  
@@ -11,7 +11,7 @@ It will ask you 2D or 3D, the shapes will appear is depending on what you choose
 <img width="292" height="42" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/2d91f44e-4776-4931-a35d-e54d206c92d9" />  
 Finally: Choose the shapes, then enter the data 🧮.  
 ## About v1.0 **(by *4 February 2026*):**  
-* This version (v1.0) allows only 2D shapes, and four shapes (Circle, Rectangle, Square, and Triangle).  
+* This version (v1.0) allows only 2D shapes, four shapes (Circle, Rectangle, Square, and Triangle).  
 <img width="299" height="136" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/4e0bdd7f-4eae-4b3e-9315-72125f7bd9d6" />
     
 ## About v1.1 **(by *5 February 2026*):**    
@@ -26,4 +26,9 @@ Finally: Choose the shapes, then enter the data 🧮.
 ## About v1.3 **(by *12 Febraury 2026*):**
 * This version is not about measurements, but it's about User Experience, if you choosed "circle" instead of "Circle" won't work? No, it will work, all of this by "OR".
 <img width="223" height="180" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/aad03ad9-8b00-4b53-9465-a3dbd2cd3a38" />
+
+## About v1.4 **(by *13 February 2026*):**
+* This version allows all the 2D and 3D shapes in the last version ⬆️, and 1 new 2D shape, a Hexagon (also it's Regular only).
+<img width="186" height="21" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/207edf3c-b5d5-428a-b6e4-62213ad9e308" />
+
 

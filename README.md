@@ -31,4 +31,6 @@ Finally: Choose the shapes, then enter the data 🧮.
 * This version allows all the 2D and 3D shapes in the last version ⬆️, and 1 new 2D shape, a Hexagon (also it's Regular only).
 <img width="186" height="21" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/207edf3c-b5d5-428a-b6e4-62213ad9e308" />
 
+# **🔴 THE PROJECT IS STOPPING NOW FOR A TIME.**
+
 
